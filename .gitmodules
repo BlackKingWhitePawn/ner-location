@@ -1,0 +1,3 @@
+[submodule "bert-crf"]
+	path = bert-crf
+	url = https://github.com/borisshapa/bert-crf.git
